@@ -1,0 +1,4 @@
+psutil
+python-nmap
+requests
+rich 
